@@ -1,0 +1,8 @@
+c:\Users\vijju\documents\visual studio 2015\Projects\Pokemon\Example1\bin\Debug\Example1.dll
+c:\Users\vijju\documents\visual studio 2015\Projects\Pokemon\Example1\bin\Debug\Example1.pdb
+c:\Users\vijju\documents\visual studio 2015\Projects\Pokemon\Example1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\vijju\documents\visual studio 2015\Projects\Pokemon\Example1\bin\Debug\Pokemon.exe
+c:\Users\vijju\documents\visual studio 2015\Projects\Pokemon\Example1\bin\Debug\Pokemon.pdb
+c:\Users\vijju\documents\visual studio 2015\Projects\Pokemon\Example1\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+c:\Users\vijju\documents\visual studio 2015\Projects\Pokemon\Example1\obj\Debug\Example1.dll
+c:\Users\vijju\documents\visual studio 2015\Projects\Pokemon\Example1\obj\Debug\Example1.pdb

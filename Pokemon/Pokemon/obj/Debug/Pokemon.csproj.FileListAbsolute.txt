@@ -1,0 +1,9 @@
+c:\users\vijju\documents\visual studio 2015\Projects\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+c:\users\vijju\documents\visual studio 2015\Projects\Pokemon\Pokemon\bin\Debug\Pokemon.exe
+c:\users\vijju\documents\visual studio 2015\Projects\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
+c:\users\vijju\documents\visual studio 2015\Projects\Pokemon\Pokemon\obj\Debug\Pokemon.csprojResolveAssemblyReference.cache
+c:\users\vijju\documents\visual studio 2015\Projects\Pokemon\Pokemon\obj\Debug\Pokemon.exe
+c:\users\vijju\documents\visual studio 2015\Projects\Pokemon\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\Mahesh  Rokzz\Desktop\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\Mahesh  Rokzz\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\Mahesh  Rokzz\Desktop\Pokemon\Pokemon\obj\Debug\Pokemon.pdb
